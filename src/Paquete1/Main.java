@@ -8,6 +8,6 @@ public class Main {
             }
             System.out.println();
         }
-        System.out.println("yes");
+        System.out.println("terceroo");
     }
 }
